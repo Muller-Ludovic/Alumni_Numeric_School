@@ -10,8 +10,8 @@
         <p>de Metz Numeric School</p>
         <p>MNS</p>
         <div>
-        <p><a href="/" class="btn">ÉTUDIANTS</a></p>
-        <p><a href="/" class="btn">ENTREPRISES</a></p>
+        <p><a href="pages/co_etudiant.php" class="btn">ÉTUDIANTS</a></p>
+        <p><a href="pages/co_entreprise.php" class="btn">ENTREPRISES</a></p>
         </div>
     </div>
 </div>

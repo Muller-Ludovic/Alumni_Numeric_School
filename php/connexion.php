@@ -1,6 +1,6 @@
 <?php
 session_start();
-include('co-bdd.php'); // Connexion à la base de données
+include('connexion-bdd.php'); // Connexion à la base de données
 
 // Requette sécurisée contre les injections SQL
 $stmt = $pdo->prepare('SELECT * FROM utilisateur where email = :email and password = :pass'); // Selectionne tout dans le tableau 'utilisateur' dans la base de données
@@ -18,6 +18,6 @@ if (empty($user)) {
 else {
   $_SESSION['email'] = $user['email'];
   $_SESSION['password'] = $user['password'];
-  header("Location:page-cible.php"); // Page cible si utilisateur existe
+  header("Location:../pages/test.php"); // Page cible si utilisateur existe
 }
 ?>

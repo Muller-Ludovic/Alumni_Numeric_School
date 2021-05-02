@@ -1,6 +1,6 @@
-<footer class="bg text-center text-white">
-  <div class="container p-4 pb-0">
-    <section class="mb-4">
+<footer class="bg text-center text-white bgfooter">
+  <div class="container p-2 pb-0">
+    <section class="sectfooter">
       <a class="btn btn-outline-light btn-floating m-1" href="#!" role="button"
         ><i class="fab fa-facebook-f"></i
       ></a>

@@ -1,0 +1,256 @@
+body, html {
+  height: 100% !important;
+  background-color: #4659AF !important;
+}
+
+body {
+  position: relative !important;
+}
+
+.logoh1 {
+  margin-top: 30px;
+  margin-left: 50px;
+  margin-bottom: 20px;
+}
+
+h1 {
+  font-size: 20.5px !important;
+  color: white;
+}
+
+.h3 {
+  margin-top: 20px;
+}
+
+.navbar {
+  background-color: #EC6834 !important;
+}
+
+button {
+  border: 1px solid white !important;
+}
+
+span {
+  padding-top: 4px;
+  color: white !important;
+}
+
+.span2 {
+  padding-top: 4px;
+  color: black !important;
+}
+
+.mdpout {
+  color: black !important;
+}
+
+.mdpout:hover {
+  color: red !important;
+}
+
+.aInscri {
+  text-decoration: none;
+  color: white;
+}
+
+.aInscri:hover {
+  text-decoration: none;
+  color: white;
+}
+
+.navbar-nav {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.nav-link {
+  color: white !important;
+}
+
+.navbar .nav-item:not(:last-child) {
+  margin-right: 35px;
+}
+
+.dropdown-item {
+  font-size: 20px;
+  font-weight: bold !important;
+}
+
+.dropdown-toggle::after {
+   transition: transform 0.15s linear; 
+}
+
+.show.dropdown .dropdown-toggle::after {
+  transform: translateY(3px);
+}
+
+.dropdown-menu {
+  margin-top: 10px;
+}
+
+.dropdown>.dropdown-menu {
+  top: 200%;
+  transition: 0.3s all ease-in-out;
+}
+.dropdown:hover>.dropdown-menu {
+  display: block;
+  top: 100%;
+}
+
+.dropdown>.dropdown-toggle:active {
+  /*Without this, clicking will make it sticky*/
+    pointer-events: none;
+}
+
+.bgfooter {
+  position: fixed !important;
+  bottom: 0 !important;
+  width: 100% !important;
+  height: 140px;
+  background-color: #EC6834 !important;
+}
+
+.divfooter {
+  display: flex;
+  justify-content: space-between;
+}
+
+.imgfooter {
+  width: 50%;
+  height: 60%;
+  padding-bottom: 20px;
+}
+
+.main {
+  width: 100% !important;
+  height: 4000px !important;
+}
+
+.Hero{
+  height: 60vh;
+  overflow: hidden;
+  position: relative;
+}
+
+.Hero-content{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  max-width: 800px;
+  width: 100%;
+  text-align: center;
+  color: #fff;
+}
+
+.Hero-content h1{
+  font-size: 50px !important;
+  font-weight: bold;
+}
+
+.Hero-content p{
+  font-size: 30px !important;
+  font-weight: bold;
+  margin-bottom: 0;
+}
+
+.Hero-content div{
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.btn {
+  width: 150px;
+  font-weight: bold !important;
+  background-color: #EC6834 !important;
+  color: white !important;
+}
+
+.btn2 {
+  width: 150px;
+  font-weight: bold !important;
+  background-color: #EC6834 !important;
+  color: white !important;
+}
+
+.btn:hover {
+  background-color: white !important;
+  color: black !important;
+}
+
+.btn2:hover {
+  background-color: #4659AF !important;
+  color: white !important;
+}
+
+.Hero-overlay{
+  background: rgba(0,0,0,0.8);
+  position: absolute;
+  top:0;
+  left:0;
+  width: 100%;
+  height: 100%;
+}
+
+.btn {
+  display: inline-block;
+}
+
+.actu {
+  height: auto;
+  background-color: white;
+  justify-content: center !important;
+}
+
+.actu2 {
+  height: auto;
+  margin-top: 20px;
+  background-color: white;
+  justify-content: center !important;
+}
+
+.situer {
+  height: 800px;
+  background-color: white;
+  justify-content: center !important;
+}
+
+.divh2 {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  margin-top: 20px;
+  padding-top: 30px;
+}
+
+.divh2co {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+
+.card {
+  margin-top: 30px;
+}
+
+.divbtn {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  margin-top: 30px;
+}
+
+.btntout {
+  margin-bottom: 20px;
+  background-color: white !important;
+  color: #EC6834 !important;
+}
+
+.btntout:hover {
+  background-color: #EC6834 !important;
+  color: white !important;
+}
+
+.spantel {
+  color: #EC6834 !important;
+}
