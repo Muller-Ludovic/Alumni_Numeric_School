@@ -206,11 +206,10 @@ span {
   height: auto;
   margin-top: 20px;
   background-color: white;
-  justify-content: center !important;
 }
 
 .situer {
-  height: 800px;
+  height: 800px !important;
   background-color: white;
   justify-content: center !important;
 }

@@ -2,7 +2,7 @@
 
 <main>
   <section class="pb-5 actu2">
-    <div class="container py-5">
+    <div class="container py-4">
       <div class="divh2co text-center"><h2><strong>Accèder à votre espace personnel entreprise</strong></h2></div>
       <hr>
         <form method="POST" action="../php/connexion.php" id="form">
