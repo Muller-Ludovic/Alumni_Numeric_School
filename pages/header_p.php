@@ -27,9 +27,9 @@
           DÉCOUVREZ MNS
           </a>
           <div class="dropdown-menu" aria-labelledby="navbarDropdown1">
-            <a class="dropdown-item" href="#">HISTOIRE</a>
-            <a class="dropdown-item" href="#">LES ATOUTS</a>
-            <a class="dropdown-item" href="#">LIENS UTILES</a>
+            <a class="dropdown-item" href="histoire.php">HISTOIRE</a>
+            <a class="dropdown-item" href="atouts.php">LES ATOUTS</a>
+            <a class="dropdown-item" href="liens.php">LIENS UTILES</a>
           </div>
         </li>
         <li class="nav-item dropdown">
@@ -37,14 +37,14 @@
           ASSOCIATION
           </a>
           <div class="dropdown-menu" aria-labelledby="navbarDropdown2">
-            <a class="dropdown-item" href="#">HISTORIQUE</a>
-            <a class="dropdown-item" href="#">STATUS</a>
-            <a class="dropdown-item" href="#">RÔLE</a>
-            <a class="dropdown-item" href="#">ORGANISATION</a>
-            <a class="dropdown-item" href="#">BUREAU</a>
-            <a class="dropdown-item" href="#">COMITÉ</a>
-            <a class="dropdown-item" href="#">BLOG</a>
-            <a class="dropdown-item" href="#">CONTACT</a>
+            <a class="dropdown-item" href="historique.php">HISTORIQUE</a>
+            <a class="dropdown-item" href="status.php">STATUS</a>
+            <a class="dropdown-item" href="role.php">RÔLE</a>
+            <a class="dropdown-item" href="organisation.php">ORGANISATION</a>
+            <a class="dropdown-item" href="bureau.php">BUREAU</a>
+            <a class="dropdown-item" href="comite.php">COMITÉ</a>
+            <a class="dropdown-item" href="blog.php">BLOG</a>
+            <a class="dropdown-item" href="contact.php">CONTACT</a>
           </div>
         </li>
         <li class="nav-item dropdown">

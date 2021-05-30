@@ -6,9 +6,9 @@
     <div class="Hero-overlay"></div>
     <div class="Hero-content">
         <h2>ALUMNI NUMERIC SCHOOL</h1>
-        <p>Le réseau des anciens étudiants</p>
-        <p>de Metz Numeric School</p>
-        <p>MNS</p>
+        <p style="color: white !important;">Le réseau des anciens étudiants</p>
+        <p style="color: white !important;">de Metz Numeric School</p>
+        <p style="color: white !important;">MNS</p>
         <div>
         <p><a href="pages/co_etudiant.php" class="btn">ÉTUDIANTS</a></p>
         <p><a href="pages/co_entreprise.php" class="btn">ENTREPRISES</a></p>

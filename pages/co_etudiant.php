@@ -17,7 +17,7 @@
             <br><br>
             <button class="btn navbtn" type="submit">Se connecter</button>
             <span class="span2">&emsp; OU &emsp;</span>
-            <button class="btn btn2 navbtn"><a href="../index.php" class="aInscri">S'inscrire</a></button>
+            <button class="btn btn2 navbtn"><a href="form_etudiant.php" class="aInscri">S'inscrire</a></button>
         </form>
     </div>
   </section>

@@ -1,6 +1,6 @@
 <?php
 session_start();
-include('co-bdd.php'); // Connexion à la base de données
+include('connexion_bdd.php'); // Connexion à la base de données
 
 $requete = $pdo->query('SELECT * FROM utilisateur where email = "'.$_POST['email'].'" and id != '.$_POST['id']); // Selectionne tout dans le tableau 'utilisateur'
 $emailExist = $requete->fetch();
