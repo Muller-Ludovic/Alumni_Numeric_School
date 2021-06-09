@@ -35,4 +35,12 @@
             </script>
             ";
         }
+
+        if (isset($_GET['skynet'])) {
+            echo "
+            <script>
+                alert('Un T-800 vous a éliminé, John Connor mène la résistance contre les robots');
+            </script>
+            ";
+        }
 ?>

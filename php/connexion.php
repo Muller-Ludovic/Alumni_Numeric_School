@@ -19,14 +19,14 @@ $_SESSION['pass'] = $user['pass'];
 
 }
 else {
-  header('Location:../index.php?error=login');
+  header('Location:../index.php?error');
   die();
 }
 }
 
 if (empty($user)) {
     $_SESSION['email'] = $user['email'];
-    header('Location:../index.php?error=login');
+    header('Location:../index.php?error');
     die();
 }
 else

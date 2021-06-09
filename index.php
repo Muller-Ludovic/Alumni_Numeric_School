@@ -2,7 +2,7 @@
 
 <main class="main">
 <div class="Hero">
-    <img src="images/etudiant.jpg" class="Hero-img" />
+    <img src="images/etudiant.jpg" />
     <div class="Hero-overlay"></div>
     <div class="Hero-content">
         <h2>ALUMNI NUMERIC SCHOOL</h1>

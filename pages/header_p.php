@@ -55,8 +55,8 @@
             <a class="dropdown-item" href="#">ANNUAIRE</a>
             <a class="dropdown-item" href="#">RECHERCHE AVANCÉE</a>
             <a class="dropdown-item" href="#">CARTE</a>
-            <a class="dropdown-item" href="#">ÉVÈNEMENTS</a>
-            <a class="dropdown-item" href="#">OFFRES D'EMPLOI</a>
+            <a class="dropdown-item" href="evenements.php">ÉVÈNEMENTS</a>
+            <a class="dropdown-item" href="offre.php">OFFRES D'EMPLOI</a>
             <a class="dropdown-item" href="#">FORUM</a>
             <a class="dropdown-item" href="#">MON PROFIL</a>
           </div>
@@ -71,7 +71,7 @@
             <a class="dropdown-item" href="#">MESSAGERIE</a>
             <a class="dropdown-item" href="#">MES DISCUSSIONS SUR LE FORUM</a>
             <div class="dropdown-divider"></div>
-            <a class="dropdown-item" href="#">CONNEXION</a>
+            <a class="dropdown-item" href="index_connexion.php">CONNEXION</a>
           </div>
         </li>
       </ul>

@@ -16,7 +16,6 @@
             <a href="" class="mdpout">MOT DE PASSE OUBLIÉ ?</a>
             <br><br>
             <button class="btn navbtn" type="submit">Se connecter</button>
-            <span class="span2">&emsp; OU &emsp;</span>
             <button class="btn btn2 navbtn"><a href="form_entreprise.php" class="aInscri">S'inscrire</a></button>
         </form>
     </div>

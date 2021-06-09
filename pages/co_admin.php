@@ -3,7 +3,7 @@
 <main>
   <section class="pb-5 actu2">
     <div class="container py-4">
-      <div class="divh2co text-center"><h2><strong>Accèder à votre espace personnel étudiant</strong></h2></div>
+      <div class="divh2co text-center"><h2><strong>Accèder à votre espace personnel admin</strong></h2></div>
       <hr>
         <form method="POST" action="../php/connexion.php" id="form">
             <h2 class="h3 mb-3 font-weight-normal text-center">Merci de saisir vos identifiants de connexion</h2>
@@ -16,7 +16,7 @@
             <a href="" class="mdpout">MOT DE PASSE OUBLIÉ ?</a>
             <br><br>
             <button class="btn navbtn" type="submit">Se connecter</button>
-            <button class="btn btn2 navbtn"><a href="form_etudiant.php" class="aInscri">S'inscrire</a></button>
+            <button class="btn btn2 navbtn"><a href="form_admin.php" class="aInscri">S'inscrire</a></button>
         </form>
     </div>
   </section>

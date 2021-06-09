@@ -38,19 +38,20 @@
                 <label><b>Mot de passe</b> <span class="star">*</span></label>
                 <div><input type="password" name="password" id="password" class="form-control" required placeholder="..." /></div>
                 </div>
+                <input type="hidden" id="role" name="role" value="etudiant" />
+                <input name="captcha" type="text" id="captcha" class="hide-robot">
                 <br>
                 
                 <div class="col-sm-12">
                 <button class="btn navbtn" type="submit">Inscription</button>
-                <span class="span2">&emsp; OU &emsp;</span>
                 <button class="btn btn2 navbtn"><a href="co_etudiant.php" class="aInscri">Connexion</a></button>
                 </div>
                 </div>
             </div>
-            <input type="hidden" id="token" name="token" value="WYBFoWpkU8mb40OwMseMz3O-q5Ycq_ywozsuUZv_KGA" />
       </form>
     </div>
   </section>
+  <br><br><br><br>
 </main>
 
 <?php include 'footer_p.php';?>

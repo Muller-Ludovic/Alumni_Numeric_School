@@ -15,14 +15,14 @@
     </section>
   </div>
 
-  <div class="divfooter text-center p-3">
+  <!--<div class="divfooter text-center p-3">
     <a href="https://www.grandest.fr/" target="_blank"><img src="../images/grand est.png" alt="grand est" class="imgfooter"></a>
     <a href="https://www.metzmetropole.fr/" target="_blank"><img src="../images/metz metro.png" alt="metz metro" class="imgfooter"></a>
     <a href="https://metz.fr/" target="_blank"><img src="../images/metz.png" alt="metz" class="imgfooter"></a>
     <a href="https://www.ifa-formation.fr/" target="_blank"><img src="../images/ifa.png" alt="ifa" class="imgfooter"></a>
     <a href="https://grand-est.numeric-emploi.org/" target="_blank"><img src="../images/nume.png" alt="numeric" class="imgfooter"></a>
     <a href="https://www.metz-numeric-school.fr/fr" target="_blank"><img src="../images/mns.png" alt="mns" class="imgfooter"></a>
-  </div>
+  </div>-->
 </footer>
 
 <script src="../js/menu.js"></script>
