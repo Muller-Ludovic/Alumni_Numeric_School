@@ -15,6 +15,7 @@
   <h1>ALUMNI NUMERIC SCHOOL</h1>
 </div>
 
+<div>
 <nav class="navbar navbar-expand-md">
   <div class="container-fluid" style="justify-content: center !important">
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -52,8 +53,8 @@
           RÉSEAU
           </a>
           <div class="dropdown-menu" aria-labelledby="navbarDropdown3">
-            <a class="dropdown-item" href="#">ANNUAIRE</a>
-            <a class="dropdown-item" href="#">RECHERCHE AVANCÉE</a>
+            <a class="dropdown-item" href="annuaire.php">ANNUAIRE</a>
+            <a class="dropdown-item" href="recherche_avance.php">RECHERCHE AVANCÉE</a>
             <a class="dropdown-item" href="#">CARTE</a>
             <a class="dropdown-item" href="evenements.php">ÉVÈNEMENTS</a>
             <a class="dropdown-item" href="offre.php">OFFRES D'EMPLOI</a>
@@ -67,7 +68,7 @@
           </a>
           <div class="dropdown-menu" aria-labelledby="navbarDropdown4">
             <a class="dropdown-item" href="#">MODIFIER MON PROFIL</a>
-            <a class="dropdown-item" href="#">MES ABONNEMENTS AUX E-MAILS</a>
+            <a class="dropdown-item" href="abonnement.php">MES ABONNEMENTS AUX E-MAILS</a>
             <a class="dropdown-item" href="#">MESSAGERIE</a>
             <a class="dropdown-item" href="#">MES DISCUSSIONS SUR LE FORUM</a>
             <div class="dropdown-divider"></div>

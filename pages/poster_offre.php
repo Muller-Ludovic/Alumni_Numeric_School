@@ -5,9 +5,10 @@
   <div class="container-fluid actu">
   <div class="divh2"><h2><strong>Poster une offre d'emploi</strong></h2></div>
   <hr>
-  <form action="" method="POST">
+  <form action="#" method="POST">
   <div class="divh3co spantel"><h3><strong><input type="text" name="titre_offre" placeholder="Titre offre d'emploi"></strong></h3></div>
   <h5><input type="text" name="nom_entreprise" placeholder="Nom entreprise"></h5>
+  <br>
     <div class="row">
     <div class="col-12 text-center">
         <img src="../images/board.jpg" class="img-fluid"/>
@@ -19,7 +20,9 @@
     <div class="divh4co col-12"><h4><input type="text" name="code" placeholder="57"> - <input type="text" name="ville" placeholder="METZ"></h4></div>
     <div class="divh6co col-12"><h6><input type="date" name="date"></h6></div>
     <div class="text-center col-12">
-     <textarea name="description" id="" rows="10" class="form-control" placeholder="Discription du poste"></textarea>
+    <p>
+     <textarea name="description" id="description" rows="10" class="form-control" placeholder="Discription du poste"></textarea>
+    </p>
     </div>
     </div>
     <hr>
@@ -36,7 +39,7 @@
     <div class="col-12"><h4 class="col-6 text-center p2"><strong>Entreprise :</strong></h4><h5 class="col-6 text-center p2"><input type="text" name="entreprise" placeholder="Metz Numeric School"></h5></div>
     </div>
     <br><br>
-    <p class="text-center"><a href="#" class="btn">Poster offre</a></p>
+    <p class="text-center"><button class="btn navbtn" type="submit">Poster</button></p>
     <p class="text-center"><a href="#" class="btn4" style="text-decoration: none;">Annuler</a></p>
     </form>
     <br><br>

@@ -1,6 +1,6 @@
 body, html {
   height: 100% !important;
-  background-color: #4659AF !important;
+  background-image: url('../images/fond.jpg');
 }
 
 body {
@@ -35,6 +35,11 @@ h1 {
 }
 
 .navbar {
+  width: 100% !important;
+  z-index: 2;
+  top: 0;
+  position: -webkit-sticky;
+  position: sticky !important;
   background-color: #EC6834 !important;
 }
 
@@ -232,6 +237,7 @@ span {
 
 .actu {
   height: auto;
+  margin-top: 40px;
   background-color: white;
   justify-content: center !important;
 }
@@ -245,15 +251,15 @@ span {
 
 .actu3 {
   height: auto !important;
-  margin-top: 20px;
+  margin-top: 40px;
   background-color: white;
 }
 
 .actu4 {
   height: auto;
-  margin-top: 20px;
+  margin-top: 40px;
   color: white;
-  background-color: #4659AF;
+  background-image: url('../images/fond.jpg');
 }
 
 .situer {
@@ -335,9 +341,32 @@ span {
   text-decoration: underline;
 }
 
+.sectfooter {
+  transform: translateY(-10px);
+}
+
 /*permet de cacher le captcha honeypot, 
   un robot le remplira alors qu'un humain ne le verra pas 
   et le laissera vide */
   .hide-robot {
     display:none;
+  }
+
+  #scrollUp {
+    width: 40px;
+    height: 40px;
+    margin: 0 auto;
+    border-radius: 50%;
+    transform: translateY(-20px);
+    background-color: white;
+  }
+
+  #monBouton {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    border: 3px solid #EC6834;
+    font-weight: bold;
+    color: #EC6834;
+    background-color: white;
   }

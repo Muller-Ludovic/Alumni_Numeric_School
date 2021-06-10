@@ -25,7 +25,7 @@
       <div class="card-body">
         <h5 class="card-title">Card title</h5>
         <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-        <a href="#" class="btn col-10 btn-primary">Go somewhere</a>
+        <a href="pages/detail_actualite.php" class="btn col-10 btn-primary">Go somewhere</a>
       </div>
     </div>
     <div class="card text-center col-sm-3 mx-4">
@@ -33,7 +33,7 @@
       <div class="card-body">
         <h5 class="card-title">Card title</h5>
         <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-        <a href="#" class="btn col-10 btn-primary">Go somewhere</a>
+        <a href="pages/detail_actualite.php" class="btn col-10 btn-primary">Go somewhere</a>
       </div>
     </div>
       <div class="card text-center col-sm-3 mx-4">
@@ -41,7 +41,7 @@
       <div class="card-body">
         <h5 class="card-title">Card title</h5>
         <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-        <a href="#" class="btn col-10 btn-primary">Go somewhere</a>
+        <a href="pages/detail_actualite.php" class="btn col-10 btn-primary">Go somewhere</a>
       </div>
     </div>
   </div>
@@ -51,7 +51,7 @@
       <div class="card-body">
         <h5 class="card-title">Card title</h5>
         <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-        <a href="#" class="btn col-10 btn-primary">Go somewhere</a>
+        <a href="pages/detail_actualite.php" class="btn col-10 btn-primary">Go somewhere</a>
       </div>
     </div>
     <div class="card text-center col-sm-3 mx-4">
@@ -59,7 +59,7 @@
       <div class="card-body">
         <h5 class="card-title">Card title</h5>
         <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-        <a href="#" class="btn col-10 btn-primary">Go somewhere</a>
+        <a href="pages/detail_actualite.php" class="btn col-10 btn-primary">Go somewhere</a>
       </div>
     </div>
       <div class="card text-center col-sm-3 mx-4">
@@ -67,12 +67,12 @@
       <div class="card-body">
         <h5 class="card-title">Card title</h5>
         <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-        <a href="#" class="btn col-10 btn-primary">Go somewhere</a>
+        <a href="pages/detail_actualite.php" class="btn col-10 btn-primary">Go somewhere</a>
       </div>
     </div>
   </div>
   <div class="divbtn">
-  <a href="#" class="btn btn-primary btntout">TOUTES LES ACTUS</a>
+  <a href="pages/actualite.php" class="btn btn-primary btntout">TOUTES LES ACTUS</a>
   </div>
 </div>
 
@@ -85,7 +85,7 @@
       <div class="card-body">
         <h5 class="card-title">Card title</h5>
         <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-        <a href="#" class="btn col-10 btn-primary">Go somewhere</a>
+        <a href="pages/detail_evenements.php" class="btn col-10 btn-primary">Go somewhere</a>
       </div>
     </div>
     <div class="card text-center col-sm-3 mx-4">
@@ -93,7 +93,7 @@
       <div class="card-body">
         <h5 class="card-title">Card title</h5>
         <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-        <a href="#" class="btn col-10 btn-primary">Go somewhere</a>
+        <a href="pages/detail_evenements.php" class="btn col-10 btn-primary">Go somewhere</a>
       </div>
     </div>
       <div class="card text-center col-sm-3 mx-4">
@@ -101,7 +101,7 @@
       <div class="card-body">
         <h5 class="card-title">Card title</h5>
         <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-        <a href="#" class="btn col-10 btn-primary">Go somewhere</a>
+        <a href="pages/detail_evenements.php" class="btn col-10 btn-primary">Go somewhere</a>
       </div>
     </div>
   </div>
@@ -111,7 +111,7 @@
       <div class="card-body">
         <h5 class="card-title">Card title</h5>
         <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-        <a href="#" class="btn col-10 btn-primary">Go somewhere</a>
+        <a href="pages/detail_evenements.php" class="btn col-10 btn-primary">Go somewhere</a>
       </div>
     </div>
     <div class="card text-center col-sm-3 mx-4">
@@ -119,7 +119,7 @@
       <div class="card-body">
         <h5 class="card-title">Card title</h5>
         <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-        <a href="#" class="btn col-10 btn-primary">Go somewhere</a>
+        <a href="pages/detail_evenements.php" class="btn col-10 btn-primary">Go somewhere</a>
       </div>
     </div>
       <div class="card text-center col-sm-3 mx-4">
@@ -127,12 +127,12 @@
       <div class="card-body">
         <h5 class="card-title">Card title</h5>
         <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-        <a href="#" class="btn col-10 btn-primary">Go somewhere</a>
+        <a href="pages/detail_evenements.php" class="btn col-10 btn-primary">Go somewhere</a>
       </div>
     </div>
   </div>
   <div class="divbtn">
-  <a href="#" class="btn btn-primary btntout">TOUTES LES ÉVÈNEMENTS</a>
+  <a href="pages/evenements.php" class="btn btn-primary btntout">TOUTES LES ÉVÈNEMENTS</a>
   </div>
 </div>
 
@@ -145,7 +145,7 @@
       <div class="card-body">
         <h5 class="card-title">Card title</h5>
         <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-        <a href="#" class="btn col-10 btn-primary">Go somewhere</a>
+        <a href="pages/detail_offre.php" class="btn col-10 btn-primary">Go somewhere</a>
       </div>
     </div>
     <div class="card text-center col-sm-3 mx-4">
@@ -153,7 +153,7 @@
       <div class="card-body">
         <h5 class="card-title">Card title</h5>
         <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-        <a href="#" class="btn col-10 btn-primary">Go somewhere</a>
+        <a href="pages/detail_offre.php" class="btn col-10 btn-primary">Go somewhere</a>
       </div>
     </div>
       <div class="card text-center col-sm-3 mx-4">
@@ -161,7 +161,7 @@
       <div class="card-body">
         <h5 class="card-title">Card title</h5>
         <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-        <a href="#" class="btn col-10 btn-primary">Go somewhere</a>
+        <a href="pages/detail_offre.php" class="btn col-10 btn-primary">Go somewhere</a>
       </div>
     </div>
   </div>
@@ -171,7 +171,7 @@
       <div class="card-body">
         <h5 class="card-title">Card title</h5>
         <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-        <a href="#" class="btn col-10 btn-primary">Go somewhere</a>
+        <a href="pages/detail_offre.php" class="btn col-10 btn-primary">Go somewhere</a>
       </div>
     </div>
     <div class="card text-center col-sm-3 mx-4">
@@ -179,7 +179,7 @@
       <div class="card-body">
         <h5 class="card-title">Card title</h5>
         <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-        <a href="#" class="btn col-10 btn-primary">Go somewhere</a>
+        <a href="pages/detail_offre.php" class="btn col-10 btn-primary">Go somewhere</a>
       </div>
     </div>
       <div class="card text-center col-sm-3 mx-4">
@@ -187,12 +187,12 @@
       <div class="card-body">
         <h5 class="card-title">Card title</h5>
         <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-        <a href="#" class="btn col-10 btn-primary">Go somewhere</a>
+        <a href="pages/detail_offre.php" class="btn col-10 btn-primary">Go somewhere</a>
       </div>
     </div>
   </div>
   <div class="divbtn">
-  <a href="#" class="btn btn-primary btntout">TOUTES LES OFFRES</a>
+  <a href="pages/offre.php" class="btn btn-primary btntout">TOUTES LES OFFRES</a>
   </div>
 </div>
 
