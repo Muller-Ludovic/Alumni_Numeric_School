@@ -3,7 +3,7 @@
 <main>
   <hr class="hr">
   <div class="container-fluid actu">
-  <div class="divh2"><h2><strong>Poster un évènementse</strong></h2></div>
+  <div class="divh2"><h2><strong>Poster un évènement</strong></h2></div>
   <hr>
   <form action="#" method="POST">
   <div class="divh3co spantel"><h3><strong><input type="text" name="titre_offre" placeholder="Titre évènement"></strong></h3></div>
@@ -24,7 +24,7 @@
     </div>
     <br><br>
     <p class="text-center"><button class="btn navbtn" type="submit">Poster</button></p>
-    <p class="text-center"><a href="#" class="btn4" style="text-decoration: none;">Annuler</a></p>
+    <p class="text-center"><button class="btn btn4" onclick = "history.back()"><a class="aInscri">Annuler</a></button></p>
     <br><br>
     </form>
   </div>

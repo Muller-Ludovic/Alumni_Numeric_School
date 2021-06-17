@@ -1,4 +1,5 @@
 body, html {
+  overflow-x: hidden;
   height: 100% !important;
   background-image: url('../images/fond.jpg');
 }
@@ -226,6 +227,22 @@ span {
   color: white !important;
 }
 
+.btn4:hover a {
+  color: red !important;
+}
+
+.profil {
+  text-decoration: none !important;
+  font-weight: bold;
+  font-size: 22px;
+  color: #EC6834
+}
+
+.profil i {
+  font-size: 48px;
+  color: #4659AF;
+}
+
 .Hero-overlay{
   background: rgba(0,0,0,0.8);
   position: absolute;
@@ -369,4 +386,61 @@ span {
     font-weight: bold;
     color: #EC6834;
     background-color: white;
+  }
+
+  .carteHero {
+    height: 150px;
+    border-radius: 10%;
+    background-color: white;
+  }
+
+  .carteHero:nth-child(1) {
+    background-image: url('../images/membre.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+
+  .carteHero:nth-child(2) {
+    background-image: url('../images/news.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+
+  .carteHero:nth-child(3) {
+    background-image: url('../images/offre.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+
+  .carteGoogle {
+    width: 50px;
+    height: 50px;
+  }
+
+  .x {
+    font-size: 24px;
+    font-weight: bold;
+  }
+
+  @media screen and (max-width: 550px) {
+    .profil {
+      text-decoration: none !important;
+      font-size: 0px;
+      color: white;
+    }
+
+    .profil i {
+      font-size: 48px;
+      color: #4659AF;
+    }
+  }
+
+  @media screen and (max-width: 364px) {
+    .sectfooter {
+      display: none;
+    }
+
+    .btnCenter {
+      text-align: center;
+    }
   }

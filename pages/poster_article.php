@@ -20,7 +20,7 @@
     </div>
     <br><br>
     <p class="text-center"><button class="btn navbtn" type="submit">Poster</button></p>
-    <p class="text-center"><a href="#" class="btn4" style="text-decoration: none;">Annuler</a></p>
+    <p class="text-center"><button class="btn btn4" onclick = "history.back()"><a class="aInscri">Annuler</a></button></p>
     <br><br>
     </form>
   </div>

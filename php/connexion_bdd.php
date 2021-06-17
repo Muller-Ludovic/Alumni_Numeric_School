@@ -1,6 +1,6 @@
 <!-- Connexion base de données -->
 <?php
-$bdd = 'mysql:host=localhost;dbname=utilisateur'; // Changer nom de la base de données !
+$bdd = 'mysql:host=localhost;dbname=utilisateur;port=3308'; // Changer nom de la base de données !
 $user = 'root'; // Nom utilisateur de la base de données
 $pass = 'root'; // Mot de passe base de données
 

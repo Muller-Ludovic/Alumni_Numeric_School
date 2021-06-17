@@ -27,7 +27,7 @@
                 <input name="captcha" type="text" id="captcha" class="hide-robot">
                 <br>
                 
-                <div class="col-sm-12">
+                <div class="col-sm-12 btnCenter">
                 <button class="btn navbtn" type="submit">Inscription</button>
                 <button class="btn btn2 navbtn"><a href="co_admin.php" class="aInscri">Connexion</a></button>
                 </div>

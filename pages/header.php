@@ -55,7 +55,7 @@
           <div class="dropdown-menu" aria-labelledby="navbarDropdown3">
             <a class="dropdown-item" href="pages/annuaire.php">ANNUAIRE</a>
             <a class="dropdown-item" href="pages/recherche_avance.php">RECHERCHE AVANCÉE</a>
-            <a class="dropdown-item" href="#">CARTE</a>
+            <a class="dropdown-item" href="pages/carte.php">CARTE</a>
             <a class="dropdown-item" href="pages/evenements.php">ÉVÈNEMENTS</a>
             <a class="dropdown-item" href="pages/offre.php">OFFRES D'EMPLOI</a>
             <a class="dropdown-item" href="#">FORUM</a>

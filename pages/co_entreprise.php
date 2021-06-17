@@ -13,10 +13,13 @@
             <br>
             <label for="inputPassword"><b>Mot de passe</b></label>
             <input type="password" name="password" id="inputPassword" class="form-control" required>
-            <a href="" class="mdpout">MOT DE PASSE OUBLIÉ ?</a>
+            <input type="hidden" id="role" name="role" value="entreprise" />
+            <a href="mdp_out.php" class="mdpout">MOT DE PASSE OUBLIÉ ?</a>
             <br><br>
+            <div class="btnCenter">
             <button class="btn navbtn" type="submit">Se connecter</button>
             <button class="btn btn2 navbtn"><a href="form_entreprise.php" class="aInscri">S'inscrire</a></button>
+            </div>
         </form>
     </div>
   </section>
