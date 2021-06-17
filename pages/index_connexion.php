@@ -13,7 +13,7 @@
             <p style="color: white !important;">Le réseau des anciens étudiants</p>
             <p style="color: white !important;">de Metz Numeric School</p>
             <p style="color: white !important;">MNS</p>
-            <div>
+            <div class="row">
             <p><a href="co_etudiant.php" class="btn">ÉTUDIANTS</a></p>
             <p><a href="co_admin.php" class="btn">ADMIN</a></p>
             <p><a href="co_entreprise.php" class="btn">ENTREPRISES</a></p>

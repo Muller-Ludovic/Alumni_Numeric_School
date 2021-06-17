@@ -433,6 +433,10 @@ span {
       font-size: 48px;
       color: #4659AF;
     }
+
+    .Hero {
+      height: auto;
+    }
   }
 
   @media screen and (max-width: 364px) {
